@@ -36,8 +36,6 @@ L.geoJSON(myGeoJson, {
                     className: "polygon-label"
                 });
                 console.log(currZoom);
-            } else {
-            alert('no change');
             }
             prevZoom = currZoom;
         });
