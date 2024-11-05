@@ -1,0 +1,12 @@
+body{
+    margin:0;
+    height:100vh;
+}
+#map {
+    flex-grow: 1;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
