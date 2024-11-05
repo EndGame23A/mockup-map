@@ -95,4 +95,4 @@ L.geoJSON(myGeoJson, {
 //     [16.5348911, 122.0788873]
 // ]).addTo(map);
 
-polygon.bindPopup("<bold>According to the 2020 census, it has a population of 88,410 people.</bold>");
+//polygon.bindPopup("<bold>According to the 2020 census, it has a population of 88,410 people.</bold>");
